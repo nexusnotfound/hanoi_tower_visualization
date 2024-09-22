@@ -1,13 +1,4 @@
 # Hanoi Tower Visualization
-A python hanoi algorithm visualization
-
-### Prerequisites
-
-```
-Python 3 or higher
-```
-
-# Hanoi Tower Visualization
 
 A python hanoi algorithm visualization
 
